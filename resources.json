@@ -1,0 +1,58 @@
+{
+    "SimpleKey": {
+      "template": "Your search results",
+      "notes": "SimpleKey represents the simplest possible translation key specification structure"
+    },
+    "NoParamsKey": {
+      "template": "This is an ICU template string with no parameters",
+      "notes": "Some overall notes here"
+    },
+    "HasParamsKey": {
+      "template": [
+        "{resultsCount, plural,",
+        "  =0 {No search results found ({someText})} ",
+        "  =1 {One search result found ({someText})} ",
+        "  other {{resultsCount} search results found ({someText})}",
+        "}"
+      ],
+      "parameters": {
+        "resultsCount": {
+          "type": "NUMBER",
+          "format": "CARDINAL",
+          "notes": "The number of search results returned. The value ranges between 0 and 50."
+        },
+        "someText": {
+          "type": "TEXT",
+          "format": "PLAIN",
+          "notes": "Additional descriptive text for search results"
+        }
+      },
+      "notes": [
+        "Header displayed above the page of search results. Can be multi-line. ",
+        "Say \"No search results\" (or the equivalent) rather than \"0 search results\" ",
+        "when no search results are returned."
+      ]
+    },
+    "AccessibilityKey": {
+      "template": "HBOMax.com",
+      "accessibilityTemplate": "HBO Max.com",
+      "notes": "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software"
+    },
+    "AccessibilityKeyForAndroidTV": {
+      "template": "HBOMax.com",
+      "accessibilityTemplate": "H, B, O, max.com",
+      "notes": [
+        "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software. ",
+        "Fire TV struggles reading urls w/ VoiceView, so we create an a11y string with ",
+        "commas to make the url pronunciation better"
+      ]
+    },
+    "TizenTvAccessibilityKey": {
+      "template": "HBOMax.com",
+      "accessibilityTemplate": "HBO max dot com",
+      "notes": [
+        "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software. ",
+        "Tizen TVs need the \"dot\" (the \".\" character) spelled out in word form"
+      ]
+    }
+  }
