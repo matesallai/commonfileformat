@@ -1,6 +1,6 @@
 {
     "SimpleKey": {
-      "template": "Your search results",
+      "template": "Your search results here",
       "notes": "SimpleKey represents the simplest possible translation key specification structure"
     },
     "NoParamsKey": {
