@@ -1,7 +1,11 @@
 {
   "SimpleKey": {
-    "template": "Your search results",
+    "template": "Your search results again",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
+  },
+  "BrancNewKey": {
+    "template": "New item added to the cart.",
+    "notes": "some notes."
   },
   "NoParamsKey": {
     "template": "This is an ICU template string with no parameters",
@@ -35,7 +39,7 @@
   },
   "AccessibilityKey": {
     "template": "HBOMax.com",
-    "accessibilityTemplate": "HBO Max.com",
+    "accessibilityTemplate": "HBO Max.com changed",
     "notes": "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software"
   },
   "AccessibilityKeyForAndroidTV": {
