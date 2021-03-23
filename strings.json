@@ -1,8 +1,12 @@
 {
   "SimpleKey": {
-    "template": "Your search results",
+    "template": "Your search results, changed here",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
   },
+  "SimpleKeyNewHere": {
+    "template": "We have some new entries for you",
+    "notes": "SimpleKey represents the simplest possible translation key specification structure"
+  }
   "BrancNewKey": {
     "template": "New item added to the cart.",
     "notes": "some notes."
