@@ -12,6 +12,10 @@
     "notes": "some notes."
   },
   "NoParamsKey": {
+    "template": "This is an ICU template string with no parameters changed",
+    "notes": "Some overall notes here"
+  },
+  "NoParamsKey_II": {
     "template": "This is an ICU template string with no parameters",
     "notes": "Some overall notes here"
   },
