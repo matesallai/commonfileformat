@@ -1,6 +1,6 @@
 {
   "SimpleKey": {
-    "template": "Your search results, changed here",
+    "template": "Your search results",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
   },
   "SimpleKeyNewHere": {
