@@ -1,11 +1,15 @@
 {
   "SimpleKey": {
-    "template": "Your apple here",
+    "template": "Your jdhsjdhs here",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
   },
   "SimpleKey2": {
     "template": "Anything",
     "notes": "SimpleKey  bla bla bla."
+  },
+  "SimpleKey3": {
+    "template": "Something",
+    "notes": "fdfdfsdfsdfsd."
   },
   "SimpleKeyNewHere": {
     "template": "We have some new entries for you",
