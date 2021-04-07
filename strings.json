@@ -11,8 +11,12 @@
     "template": "Something",
     "notes": "fdfdfsdfsdfsd."
   },
+  "SimpleKey4": {
+    "template": "aaaaa",
+    "notes": "fdfdfsdfsdfsd."
+  },
   "SimpleKeyNewHere": {
-    "template": "We have some new entries for you",
+    "template": "We have some new entries for us",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
   },
   "BrancNewKey": {
