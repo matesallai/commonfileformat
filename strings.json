@@ -1,7 +1,11 @@
 {
   "NewKeyAdded": {
-    "template": "Add to cart",
+    "template": "Add to cart again",
     "notes": "NewKeyAdded description"
+  },
+  "YYY": {
+    "template": "Any value",
+    "notes": "YYY description"
   },
   "SimpleKey": {
     "template": "Your apples are here",
