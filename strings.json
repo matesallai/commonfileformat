@@ -1,6 +1,10 @@
 {
+  "NewKeyAdded": {
+    "template": "Add to cart",
+    "notes": "NewKeyAdded description"
+  },
   "SimpleKey": {
-    "template": "Your jdhsjdhs here",
+    "template": "Your apples are here",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
   },
   "SimpleKey2": {
