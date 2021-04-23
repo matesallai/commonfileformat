@@ -1,4 +1,7 @@
 {
+  "WithoutNotes": {
+    "template": "Without notes"
+  },
   "NewKeyAdded": {
     "template": "Add to cart again",
     "notes": "NewKeyAdded description"
