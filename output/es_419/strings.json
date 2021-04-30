@@ -1,0 +1,62 @@
+{
+  "BrandNewKey": {
+    "template": ""
+  },
+  "ResA11yHelpWebsite": {
+    "template": ""
+  },
+  "ResA11yWebsite::androidtv": {
+    "template": ""
+  },
+  "ResA11yWebsite::default": {
+    "template": ""
+  },
+  "ResA11yWebsite::tizentv": {
+    "template": ""
+  },
+  "ResBrand": {
+    "template": ""
+  },
+  "ResChannel": {
+    "template": ""
+  },
+  "ResClient::androidtv": {
+    "template": ""
+  },
+  "ResClient::appletv": {
+    "template": ""
+  },
+  "ResClient::appletvdemo": {
+    "template": ""
+  },
+  "ResClient::default": {
+    "template": ""
+  },
+  "ResClient::desktop": {
+    "template": ""
+  },
+  "ResClient::ps4": {
+    "template": ""
+  },
+  "ResClient::tizentv": {
+    "template": "Samsung TV"
+  },
+  "ResEmpty": {
+    "template": ""
+  },
+  "ResHBOMAX": {
+    "template": ""
+  },
+  "ResHelpWebsite": {
+    "template": ""
+  },
+  "ResLegalEntity": {
+    "template": ""
+  },
+  "ResSpaceChar": {
+    "template": ""
+  },
+  "ResWebsite": {
+    "template": ""
+  }
+}
