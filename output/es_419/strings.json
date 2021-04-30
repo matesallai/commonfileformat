@@ -1,0 +1,50 @@
+{
+  "AccessibilityKey": {
+    "template": "",
+    "accessibilityTemplate": ""
+  },
+  "AccessibilityKeyForAndroidTV": {
+    "template": "",
+    "accessibilityTemplate": ""
+  },
+  "BrancNewKey": {
+    "template": ""
+  },
+  "HasParamsKey": {
+    "template": "{resultsCount, plural, =1 {} other {}}"
+  },
+  "KeyToReleaseBranch": {
+    "template": ""
+  },
+  "NewKeyAdded": {
+    "template": ""
+  },
+  "NoParamsKey": {
+    "template": ""
+  },
+  "NoParamsKey_II": {
+    "template": ""
+  },
+  "SimpleKey": {
+    "template": ""
+  },
+  "SimpleKey2": {
+    "template": ""
+  },
+  "SimpleKey3": {
+    "template": ""
+  },
+  "SimpleKeyNewHere": {
+    "template": ""
+  },
+  "TizenTvAccessibilityKey": {
+    "template": "",
+    "accessibilityTemplate": ""
+  },
+  "WithoutNotes": {
+    "template": ""
+  },
+  "YYY": {
+    "template": ""
+  }
+}
