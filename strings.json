@@ -2,6 +2,9 @@
   "KeyToReleaseBranch": {
     "template": "Key to release branch"
   },
+  "KeyToReleaseBranch2": {
+    "template": "Key to release branch 2"
+  },
   "WithoutNotes": {
     "template": "Key without notes"
   },
