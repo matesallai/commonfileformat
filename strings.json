@@ -1,7 +1,7 @@
 {
   "WithoutNotes": {
     "template": "Key without notes"
-  },
+  }
   "NewKeyAdded": {
     "template": "Add to cart again",
     "notes": "NewKeyAdded description"
