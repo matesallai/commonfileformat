@@ -1,4 +1,7 @@
 {
+   "KeyABC": {
+    "template": "Value ABC"
+  },
   "WithoutNotes": {
     "template": "Key without notes here"
   },
