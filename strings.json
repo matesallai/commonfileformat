@@ -1,4 +1,7 @@
 {
+   "KeyABCTASK": {
+    "template": "Value ABC for task"
+   },
    "KeyABC": {
     "template": "Value ABC"
   },
