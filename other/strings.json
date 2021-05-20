@@ -1,0 +1,8 @@
+{
+ "KeyFromOtherInput": {
+    "template": "You have one more item to add."
+   },
+   "KeyFromOtherInput2": {
+    "template": "Value"
+  },
+}
