@@ -3,7 +3,7 @@
     "template": "Value ABC for task"
    },
    "KeyABC": {
-    "template": "Value"
+    "template": "Value here"
   },
   "WithoutNotes": {
     "template": "Key without notes here"
