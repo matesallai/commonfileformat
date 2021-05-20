@@ -88,7 +88,7 @@
     "template": "HBOMax.com",
     "accessibilityTemplate": "HBO max dot com",
     "notes": [
-      "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software. ",
+      "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software.",
       "Tizen TVs need the \"dot\" (the \".\" character) spelled out in word form"
     ]
   }
