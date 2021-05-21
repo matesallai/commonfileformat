@@ -52,7 +52,7 @@
       "{resultsCount, plural,",
       "  =0 {No search results found ({someText})} ",
       "  =1 {One search result found ({someText})} ",
-      "  other {{resultsCount} search results found ({someText})}",
+      "  other {{resultsCount} search results found ({someText})} ",
       "}"
     ],
     "parameters": {
