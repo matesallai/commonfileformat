@@ -2,6 +2,9 @@
    "KeyABCTASK": {
     "template": "Value ABC for task"
    },
+   "NEWKEY": {
+    "template": "New item added"
+   },
    "KeyABC": {
     "template": "Value here"
   },
