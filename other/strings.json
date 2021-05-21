@@ -3,7 +3,11 @@
     "template": "You have one more item to add."
    },
    "KeyFromOtherInput2": {
-    "template": "Value",
+    "template": "Value changed",
     "notes": "NOTES FOR KeyFromOtherInput2"
+  },
+   "KeyFromOtherInput3": {
+    "template": "Value",
+    "notes": "NOTES hjfhdkfhdjfhs"
   }
 }
