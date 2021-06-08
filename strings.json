@@ -1,6 +1,6 @@
 {
   "SimpleKey": {
-    "template": "Your apples are here",
+    "template": "Welcome to our platform",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
   },
   "BrandNewKey": {
