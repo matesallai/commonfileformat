@@ -1,0 +1,26 @@
+{
+  "AccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO Max.com cambió"
+  },
+  "AccessibilityKeyForAndroidTV": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "H, B, O, max.com"
+  },
+  "BrandNewKey": {
+    "template": "Nuevo artículo agregado al carrito."
+  },
+  "HasParamsKey": {
+    "template": "{resultsCount, plural, =1 {Se encontró un resultado de búsqueda ( {someText} )} other {{resultsCount} resultados de búsqueda encontrados ( {someText} )}}"
+  },
+  "NoParamsKey": {
+    "template": "Esta es una cadena de plantilla de UCI sin parámetros cambiados"
+  },
+  "SimpleKey": {
+    "template": "Tus manzanas estan aqui"
+  },
+  "TizenTvAccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO max punto com"
+  }
+}
