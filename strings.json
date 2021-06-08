@@ -1,50 +1,14 @@
 {
-   "KeyABCTASK": {
-    "template": "Value ABC for task"
-   },
-   "NEWKEY": {
-    "template": "New item added"
-   },
-   "KeyABC": {
-    "template": "Value here"
-  },
-  "WithoutNotes": {
-    "template": "Key without notes here"
-  },
-  "NewKeyAdded": {
-    "template": "Add to cart again",
-    "notes": "NewKeyAdded description"
-  },
-  "YYY": {
-    "template": "Any value",
-    "notes": "YYY description"
-  },
   "SimpleKey": {
     "template": "Your apples are here",
     "notes": "SimpleKey represents the simplest possible translation key specification structure"
   },
-  "SimpleKey2": {
-    "template": "Anything",
-    "notes": "SimpleKey  bla bla bla."
-  },
-  "SimpleKey3": {
-    "template": "Something",
-    "notes": "fdfdfsdfsdfsd."
-  },
-  "SimpleKeyNewHere": {
-    "template": "We have some new entries for you",
-    "notes": "SimpleKey represents the simplest possible translation key specification structure"
-  },
-  "BrancNewKey": {
+  "BrandNewKey": {
     "template": "New item added to the cart.",
     "notes": "some notes."
   },
   "NoParamsKey": {
     "template": "This is an ICU template string with no parameters changed",
-    "notes": "Some overall notes here"
-  },
-  "NoParamsKey_II": {
-    "template": "This is an ICU template string with no parameters",
     "notes": "Some overall notes here"
   },
   "HasParamsKey": {
