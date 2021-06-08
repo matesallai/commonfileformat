@@ -1,0 +1,26 @@
+{
+  "AccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO Max.com har ändrats"
+  },
+  "AccessibilityKeyForAndroidTV": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "H, B, O, max.com"
+  },
+  "BrandNewKey": {
+    "template": "Ny artikel har lagts till i kundvagnen."
+  },
+  "HasParamsKey": {
+    "template": "{resultsCount, plural, =1 {Ett sökresultat hittades ( {someText} )} other {{resultsCount} sökresultat hittades ( {someText} )}}"
+  },
+  "NoParamsKey": {
+    "template": "Detta är en ICU-mallsträng utan parametrar som ändrats"
+  },
+  "SimpleKey": {
+    "template": "Dina äpplen är här"
+  },
+  "TizenTvAccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO max dot com"
+  }
+}
