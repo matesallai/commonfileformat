@@ -1,0 +1,26 @@
+{
+  "AccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO Max.com ændret"
+  },
+  "AccessibilityKeyForAndroidTV": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "H, B, O, max.com"
+  },
+  "BrandNewKey": {
+    "template": "Nyt element tilføjet til kurven."
+  },
+  "HasParamsKey": {
+    "template": "{resultsCount, plural, =1 {Der blev fundet et søgeresultat ( {someText} )} other {{resultsCount} søgeresultater fundet ( {someText} )}}"
+  },
+  "NoParamsKey": {
+    "template": "Dette er en ICU-skabelonstreng uden parametre ændret"
+  },
+  "SimpleKey": {
+    "template": "Dine æbler er her"
+  },
+  "TizenTvAccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO max dot com"
+  }
+}
