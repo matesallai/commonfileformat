@@ -1,0 +1,26 @@
+{
+  "AccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO Max.com endret"
+  },
+  "AccessibilityKeyForAndroidTV": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "H, B, O, max.com"
+  },
+  "BrandNewKey": {
+    "template": "Nytt produkt lagt til i handlekurven."
+  },
+  "HasParamsKey": {
+    "template": "{resultsCount, plural, =0 {} =1 {Ett søkeresultat funnet ( {someText} )} other {{resultsCount} søkeresultater funnet ( {someText} )}}"
+  },
+  "NoParamsKey": {
+    "template": "Dette er en ICU-malstreng uten parametere endret"
+  },
+  "SimpleKey": {
+    "template": "Eplene dine er her"
+  },
+  "TizenTvAccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO max dot com"
+  }
+}
