@@ -1,0 +1,26 @@
+{
+  "AccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO Max.com muuttui"
+  },
+  "AccessibilityKeyForAndroidTV": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "H, B, O, max.com"
+  },
+  "BrandNewKey": {
+    "template": "Uusi tuote lisätty ostoskoriin."
+  },
+  "HasParamsKey": {
+    "template": "{resultsCount, plural, =1 {Löytyi yksi hakutulos ( {someText} )} other {{resultsCount} hakutulosta ( {someText} )}}"
+  },
+  "NoParamsKey": {
+    "template": "Tämä on ICU-mallimerkkijono, jota ei ole muutettu"
+  },
+  "SimpleKey": {
+    "template": "Omenasi ovat täällä"
+  },
+  "TizenTvAccessibilityKey": {
+    "template": "HBOMax.com",
+    "accessibilityTemplate": "HBO max dot com"
+  }
+}
