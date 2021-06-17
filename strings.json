@@ -1,5 +1,5 @@
 {
-  "Key1": {
+  "Key1 from input file": {
     "template": "Template for Key1",
     "accessibilityTemplate": "Accessibility template for Key1 changed",
     "notes": [
