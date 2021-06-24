@@ -1,6 +1,6 @@
 {
   "Key1 from input file": {
-    "template": "Template for Key1",
+    "template": "Template for Key1 here",
     "accessibilityTemplate": "Accessibility template for Key1 changed",
     "notes": [
       "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software.",
