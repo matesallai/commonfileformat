@@ -1,9 +1,12 @@
 {
   "Key1 from input file": {
-    "template": "Plantilla para Key1 aquí",
-    "accessibilityTemplate": "Plantilla de accesibilidad para Key1 modificada"
+    "template": "Plantilla de accesibilidad para Key1 - APPLE",
+    "accessibilityTemplate": "Plantilla de accesibilidad para Key1 - APPLE"
   },
   "ResLogin": {
     "template": "Acceso"
+  },
+  "ResLogout": {
+    "template": "Cerrar sesión"
   }
 }
