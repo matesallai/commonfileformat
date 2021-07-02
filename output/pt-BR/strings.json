@@ -1,0 +1,9 @@
+{
+  "Key1 from input file": {
+    "template": "Modelo para Key1 aqui",
+    "accessibilityTemplate": "Modelo de acessibilidade para Key1 alterado"
+  },
+  "ResLogin": {
+    "template": "Conecte-se"
+  }
+}
