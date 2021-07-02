@@ -1,9 +1,0 @@
-{
-  "Key1 from input file": {
-    "template": "Plantilla para Key1 aquí",
-    "accessibilityTemplate": "Plantilla de accesibilidad para Key1 modificada"
-  },
-  "ResLogin": {
-    "template": "Acceso"
-  }
-}
