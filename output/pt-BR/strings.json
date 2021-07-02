@@ -1,9 +1,12 @@
 {
   "Key1 from input file": {
-    "template": "Modelo para Key1 aqui",
-    "accessibilityTemplate": "Modelo de acessibilidade para Key1 alterado"
+    "template": "Modelo para Key1 - APPLE",
+    "accessibilityTemplate": "Modelo de acessibilidade para Key1 - APPLE"
   },
   "ResLogin": {
     "template": "Conecte-se"
+  },
+  "ResLogout": {
+    "template": "Sair"
   }
 }
