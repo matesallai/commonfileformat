@@ -1,0 +1,26 @@
+{
+  "Key1": {
+    "template": "Clave simple aquí"
+  },
+  "Key2": {
+    "template": "Bola"
+  },
+  "Key3": {
+    "template": "Nuevo artículo en el carrito. Bola"
+  },
+  "Key4": {
+    "template": "Algo aqui"
+  },
+  "Key5": {
+    "template": "Configuraciones de la aplicación"
+  },
+  "KeyX::default": {
+    "template": "pie de manzana"
+  },
+  "KeyX::mobile": {
+    "template": "Tarta de pera"
+  },
+  "KeyY": {
+    "template": "haga clic aquí"
+  }
+}
