@@ -9,7 +9,7 @@
   },
   "ResLogin": {
     "template": "Login button text",
-    "notes": "Notes here"
+    "notes": "Notes here - changed notes"
   },
   "ResLogout": {
     "template": "Logout",
