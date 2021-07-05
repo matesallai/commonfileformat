@@ -8,7 +8,7 @@
     ]
   },
   "ResLogin": {
-    "template": "Login button text",
+    "template": "Login button",
     "notes": "Notes here - changed notes"
   },
   "ResLogout": {
