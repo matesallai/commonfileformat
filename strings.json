@@ -13,6 +13,6 @@
   },
   "ResLogout": {
     "template": "Logout",
-    "notes": "Logout notes changed"
+    "notes": "Logout notes"
   }
 }
