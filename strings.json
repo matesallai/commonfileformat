@@ -1,6 +1,6 @@
 {
   "Key1 from input file": {
-    "template": "Template for Key1 - APPLE",
+    "template": "Template for Key1",
     "accessibilityTemplate": "Accessibility template for Key1 - APPLE",
     "notes": [
       "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software.",
@@ -14,5 +14,9 @@
   "ResLogout": {
     "template": "Logout",
     "notes": "Logout notes"
+  },
+  "ResShareButton": {
+    "template": "Share",
+    "notes": "Share notes"
   }
 }
