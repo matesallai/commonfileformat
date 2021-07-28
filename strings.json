@@ -1,0 +1,18 @@
+{
+  "Key1 from input file": {
+    "template": "Template for Key1 - APPLE",
+    "accessibilityTemplate": "Accessibility template for Key1 - APPLE",
+    "notes": [
+      "The website \"HBOMax.com\", with a variant that is optimized for screen-reader software.",
+      "Tizen TVs need the \"dot\" (the \".\" character) spelled out in word form"
+    ]
+  },
+  "ResLogin": {
+    "template": "Login button changed",
+    "notes": "Login notes"
+  },
+  "ResLogout": {
+    "template": "Logout",
+    "notes": "Logout notes"
+  }
+}
