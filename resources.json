@@ -1,6 +1,6 @@
 {
     "Key1": {
-      "template": "Your search results - changed",
+      "template": "Your search results - changed back",
       "notes": "SimpleKey represents the simplest possible translation key specification structure"
     },
     "Key2": {
@@ -13,6 +13,10 @@
     },
     "Key4": {
       "template": "Value4",
+      "notes": "Some overall notes here"
+    },
+    "Key5": {
+      "template": "Value5",
       "notes": "Some overall notes here"
     }
 }
