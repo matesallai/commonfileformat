@@ -1,0 +1,14 @@
+{
+  "Key1": {
+    "template": "Tus resultados de búsqueda"
+  },
+  "Key2": {
+    "template": "Esta es una cadena de plantilla de UCI sin parámetros"
+  },
+  "Key3": {
+    "template": "Valor3"
+  },
+  "Key4": {
+    "template": "Valor4"
+  }
+}
