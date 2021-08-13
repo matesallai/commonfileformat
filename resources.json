@@ -1,6 +1,6 @@
 {
     "Key1": {
-      "template": "Your search results - changed back",
+      "template": "APPLE",
       "notes": "SimpleKey represents the simplest possible translation key specification structure"
     },
     "Key2": {
@@ -21,6 +21,10 @@
     },
     "Key6": {
       "template": "Value6",
+      "notes": "Some overall notes here"
+    },
+    "Key7": {
+      "template": "Value7",
       "notes": "Some overall notes here"
     }
 }
