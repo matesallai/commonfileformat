@@ -1,4 +1,5 @@
-"Key1": {
+{
+    "Key1": {
       "template": "Your search results - changed back",
       "notes": "SimpleKey represents the simplest possible translation key specification structure"
     },
