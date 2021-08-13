@@ -18,5 +18,9 @@
     "Key5": {
       "template": "Value5",
       "notes": "Some overall notes here"
-    }
+    },
+    "Key6Release": {
+      "template": "Release value 6",
+      "notes": "Some overall notes here"
+    },
  }
