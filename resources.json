@@ -1,2 +1,17 @@
-{
-}
+"Key1": {
+      "template": "Your search results - changed back",
+      "notes": "SimpleKey represents the simplest possible translation key specification structure"
+    },
+    "Key2": {
+      "template": "This is an ICU template string with no parameters - changed",
+      "notes": "Some overall notes here"
+    },
+    "Key3": {
+      "template": "Value3",
+      "notes": "Some overall notes here"
+    },
+    "Key4": {
+      "template": "Value4",
+      "notes": "Some overall notes here"
+    }
+ }
