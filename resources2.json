@@ -1,5 +1,8 @@
 {
   "Keyx": {
-    "template": "Value XY"
+    "template": "Value XYZZZ"
+  },
+  "Keyy_master": {
+    "template": "Value master"
   }
 }
