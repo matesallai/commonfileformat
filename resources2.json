@@ -1,5 +1,8 @@
 {
   "Keyx": {
     "template": "Value XY"
-  }
+  },
+   "KeyNewRelease": {
+    "template": "Value Key New release"
+  },
 }
