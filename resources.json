@@ -1,6 +1,6 @@
 {
     "Key1": {
-      "template": "Changed value",
+      "template": "Changed value here",
       "notes": "SimpleKey represents the simplest possible translation key specification structure"
     },
     "Key2": {
