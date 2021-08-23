@@ -1,0 +1,17 @@
+{
+  "AKey1": {
+    "template": "Valor alterado aqui"
+  },
+  "BKey5": {
+    "template": "Value5"
+  },
+  "EKey3": {
+    "template": "Value3"
+  },
+  "RKey4": {
+    "template": "Value4"
+  },
+  "WKey2": {
+    "template": "Este é um modelo de string ICU sem parâmetros - alterado"
+  }
+}
