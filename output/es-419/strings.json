@@ -1,0 +1,17 @@
+{
+  "AKey1": {
+    "template": "Valor cambiado aquí"
+  },
+  "BKey5": {
+    "template": "Valor5"
+  },
+  "EKey3": {
+    "template": "Valor3"
+  },
+  "RKey4": {
+    "template": "Valor4"
+  },
+  "WKey2": {
+    "template": "Esta es una cadena de plantilla de UCI sin parámetros, modificada"
+  }
+}
