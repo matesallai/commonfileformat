@@ -10,5 +10,9 @@
     "Key3": {
       "template": "Value3",
       "notes": "Some overall notes here"
+    },
+    "NewKey": {
+      "template": "New Value",
+      "notes": "Some overall notes here"
     }
  }
