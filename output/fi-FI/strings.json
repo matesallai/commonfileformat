@@ -1,0 +1,14 @@
+{
+  "Key1": {
+    "template": "Tässä muutettu arvo"
+  },
+  "Key2": {
+    "template": "Tämä on ICU -mallimerkkijono, jolla ei ole parametreja - muutettu"
+  },
+  "Key3": {
+    "template": "Arvo 3"
+  },
+  "NewKey": {
+    "template": "Uusi arvo"
+  }
+}
