@@ -1,0 +1,14 @@
+{
+  "Key1": {
+    "template": "Valor cambiado aquí"
+  },
+  "Key2": {
+    "template": "Esta es una cadena de plantilla de UCI sin parámetros, modificada"
+  },
+  "Key3": {
+    "template": "Valor3"
+  },
+  "NewKey": {
+    "template": "Nuevo valor"
+  }
+}
