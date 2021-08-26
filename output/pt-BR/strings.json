@@ -1,0 +1,14 @@
+{
+  "Key1": {
+    "template": "Valor alterado aqui"
+  },
+  "Key2": {
+    "template": "Este é um modelo de string ICU sem parâmetros - alterado"
+  },
+  "Key3": {
+    "template": "Value3"
+  },
+  "NewKey": {
+    "template": "Novo valor"
+  }
+}
