@@ -1,0 +1,17 @@
+{
+  "Key1": {
+    "template": "Endret verdi her no"
+  },
+  "Key2": {
+    "template": "Dette er en ICU -malstreng uten parametere - endret no"
+  },
+  "Key3": {
+    "template": "Verdi3 no"
+  },
+  "NewKey": {
+    "template": "Ny verdi no"
+  },
+  "AdditionalKey": {
+    "template": "Lagt til nøkkel"
+  }
+}
