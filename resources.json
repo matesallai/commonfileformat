@@ -14,5 +14,9 @@
     "NewKey": {
       "template": "New Value",
       "notes": "Some overall notes here"
+    },
+    "AdditionalKey": {
+      "template": "Added key",
+      "notes": "Some overall notes here"
     }
  }
