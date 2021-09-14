@@ -10,5 +10,11 @@
   },
   "NewKey": {
     "template": "Nuevo valor"
+  },
+  "AnOtherLoginBtn2": {
+    "template": "Por favor inicie sesión -está en proyecto de mapeo"
+  },
+  "LoginBtnText1": {
+    "template": "Por favor inicie sesión -está en proyecto de mapeo"
   }
 }
