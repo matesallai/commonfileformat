@@ -10,5 +10,11 @@
   },
   "NewKey": {
     "template": "Novo valor"
+  },
+  "AnOtherLoginBtn2": {
+    "template": "Faça login -está no projeto de mapeamento"
+  },
+  "LoginBtnText1": {
+    "template": "Faça login -está no projeto de mapeamento"
   }
 }
