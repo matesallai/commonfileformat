@@ -10,5 +10,11 @@
   },
   "NewKey": {
     "template": "Uusi arvo"
+  },
+  "AnOtherLoginBtn2": {
+    "template": ""
+  },
+  "LoginBtnText1": {
+    "template": "[%key_id:111642097%]"
   }
 }
