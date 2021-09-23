@@ -10,5 +10,8 @@
   },
   "NewKey": {
     "template": "Novo valor"
+  },
+  "AdditionalKey": {
+    "template": "Chave adicionada"
   }
 }
